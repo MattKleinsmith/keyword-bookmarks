@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Keyword Bookmark",
+  "version": "1.0",
+  "permissions": ["bookmarks", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "omnibox": {
+    "keyword": "t"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
