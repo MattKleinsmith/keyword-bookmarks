@@ -19,4 +19,5 @@ CMD + T -> T -> (keyword)
 ---
 
 Idea by Firefox makers.
+
 Code by ChatGPT.
