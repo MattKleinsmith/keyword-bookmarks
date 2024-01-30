@@ -15,3 +15,8 @@ This Chrome Extension is activated when you type "t" in the omnibar, because "t"
 ![CleanShot 2024-01-29 at 21 37 19](https://github.com/MattKleinsmith/keyword-bookmarks/assets/8968171/e702fa8e-fb17-4e22-a36a-43a1b15fd807)
 
 CMD + T -> T -> (keyword)
+
+---
+
+Idea by Firefox makers.
+Code by ChatGPT.
