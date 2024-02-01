@@ -7,7 +7,7 @@
     "service_worker": "background.js"
   },
   "omnibox": {
-    "keyword": "t"
+    "keyword": "k"
   },
   "action": {
     "default_popup": "popup.html"
